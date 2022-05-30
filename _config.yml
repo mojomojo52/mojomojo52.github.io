@@ -1,1 +1,10 @@
+title: Ingab Kang
+logo: /assets/img/selfie.jpg
+description: I am PhD student at the University of Michigan. My advisor is Daniel Genkin and I work in fields pertaining to the Rowhammer vulnerability.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
+cv: /assets/cv_igkang.pdf
+gs: https://scholar.google.com/citations?user=ik1D_PUAAAAJ&hl=en
+email: mailto:igkang@umich.edu
+
