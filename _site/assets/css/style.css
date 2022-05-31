@@ -176,7 +176,7 @@ kbd { background-color: #fafbfc; border: 1px solid #c6cbd1; border-bottom-color:
 
 header { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; }
 
-ul.downloads { list-style: none; height: 130px; padding: 0; width: 70px; }
+ul.downloads { list-style: none; height: 130px; padding: 0; width: 200px; }
 
 .downloads li { width: 200px; float: center; height: 40px; padding-top: 6px; }
 
