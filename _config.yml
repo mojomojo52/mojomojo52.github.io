@@ -4,7 +4,8 @@ description: PhD student @University of Michigan
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-cv: /assets/cv/cv_igkang.pdf
+#cv: /homepage/assets/cv/cv_igkang.pdf
+cv: https://mojomojo52.github.io/homepage/assets/cv/cv_igkang.pdf 
 gs: https://scholar.google.com/citations?user=ik1D_PUAAAAJ&hl=en
 email: mailto:igkang@umich.edu
 
