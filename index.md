@@ -10,8 +10,8 @@ My research focus is on memory system and security. Recently, my research focus 
 # Publications
 
 1. Youssef Tobah, Andrew Kwong, **Ingab Kang**, Daniel Genkin, Kang G. Shin ”SpecHammer:
-Combining Spectre and Rowhammer for new speculative attacks,” IEEE Security and Privacy
-(Oakland), 2022
+Combining Spectre and Rowhammer for new speculative attacks,” IEEE Symposium on Security and Privacy
+(IEEE S&P), 2022
 2. Sungbo Park, **Ingab Kang**, Yaebin Moon, Jung Ho Ahn, G. Edward Suh ”BCD Deduplication:
 Effective Memory Compression Using Partial Cache-Line Deduplication, ” International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS),
 2021
