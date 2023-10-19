@@ -10,9 +10,9 @@ My research focus is on memory system and security. Recently, my research focus 
 # Publications
 
 
-1. <strong>Ingab Kang </strong>, Walter Wang, Jason Kim, Stephan van Schaik, Youssef Tobah, Daniel Genkin, Andrew Kwong, and Yuval Yarom
+1. **Ingab Kang**, Walter Wang, Jason Kim, Stephan van Schaik, Youssef Tobah, Daniel Genkin, Andrew Kwong, and Yuval Yarom
     ”SledgeHammer: Amplifying Rowhammer via Bank-level Parallelism”, USENIX Security, 2024
-2. Youssef Tobah, <strong>Ingab Kang</strong>, Andrew Kwong, Daniel Genkin, and Kang G. Shin 
+2. Youssef Tobah, **Ingab Kang**, Andrew Kwong, Daniel Genkin, and Kang G. Shin 
     ”Go Go Gadget Hammer: Flipping Nested Pointers for Arbitrary Data Leakage”, USENIX Security, 2024
 3. Youssef Tobah, Andrew Kwong, **Ingab Kang**, Daniel Genkin, Kang G. Shin ”SpecHammer:
 Combining Spectre and Rowhammer for new speculative attacks”, IEEE Symposium on Security and Privacy
